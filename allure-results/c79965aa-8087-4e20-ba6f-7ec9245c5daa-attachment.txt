@@ -1,0 +1,20 @@
+Online Shopping India Mobile, Cameras, Lifestyle & more Online @ Flipkart.com
+https://www.flipkart.com/
+15
+[
+  'My Profile',
+  'Flipkart Plus Zone',
+  'Orders',
+  'Wishlist',
+  'Become a Seller',
+  'Rewards',
+  'Gift Cards',
+  'Notification Preferences',
+  '24x7 Customer Care',
+  'Advertise',
+  'Download App',
+  'Become a Seller',
+  'Notification Settings',
+  '24x7 Customer Care',
+  'Advertise on Flipkart'
+]
